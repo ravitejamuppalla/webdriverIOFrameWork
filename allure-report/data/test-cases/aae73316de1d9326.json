@@ -1,0 +1,58 @@
+{
+  "uid" : "aae73316de1d9326",
+  "name" : "Navigating to first Product in the and click on Add to cart",
+  "fullName" : "Creating a new user ,Adding the product the card and completing the payment for product.Navigating to first Product in the and click on Add to cart",
+  "historyId" : "7d0d0ac774dc1044dbe4d3e8c7a186f2",
+  "time" : {
+    "start" : 1620841781520,
+    "stop" : 1620841790617,
+    "duration" : 9097
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Creating a new user ,Adding the product the card and completing the payment for product"
+  }, {
+    "name" : "testClass",
+    "value" : "Creating a new user ,Adding the product the card and completing the payment for product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Navigating to first Product in the and click on Add to cart"
+  }, {
+    "name" : "package",
+    "value" : "Creating a new user ,Adding the product the card and completing the payment for product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aae73316de1d9326.json",
+  "parameterValues" : [ "chrome-90.0.4430.93" ]
+}

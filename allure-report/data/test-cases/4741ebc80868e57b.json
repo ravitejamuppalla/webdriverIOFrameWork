@@ -1,0 +1,58 @@
+{
+  "uid" : "4741ebc80868e57b",
+  "name" : "Navigating to Different tabs to complete the buying the product",
+  "fullName" : "Creating a new user ,Adding the product the card and completing the payment for product.Navigating to Different tabs to complete the buying the product",
+  "historyId" : "9e5d83ad16923cc9fccfe81679b7fa54",
+  "time" : {
+    "start" : 1620841796344,
+    "stop" : 1620841828387,
+    "duration" : 32043
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Creating a new user ,Adding the product the card and completing the payment for product"
+  }, {
+    "name" : "testClass",
+    "value" : "Creating a new user ,Adding the product the card and completing the payment for product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Navigating to Different tabs to complete the buying the product"
+  }, {
+    "name" : "package",
+    "value" : "Creating a new user ,Adding the product the card and completing the payment for product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4741ebc80868e57b.json",
+  "parameterValues" : [ "chrome-90.0.4430.93" ]
+}

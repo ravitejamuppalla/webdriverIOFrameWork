@@ -1,0 +1,58 @@
+{
+  "uid" : "c56bfc604a363715",
+  "name" : "Login Again Back to application and click on Home Button ",
+  "fullName" : "Creating a new user ,Adding the product the card and completing the payment for product.Login Again Back to application and click on Home Button ",
+  "historyId" : "802e6c538a5b3d2c51a79c1e4009049b",
+  "time" : {
+    "start" : 1620841765085,
+    "stop" : 1620841781520,
+    "duration" : 16435
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Creating a new user ,Adding the product the card and completing the payment for product"
+  }, {
+    "name" : "testClass",
+    "value" : "Creating a new user ,Adding the product the card and completing the payment for product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Login Again Back to application and click on Home Button "
+  }, {
+    "name" : "package",
+    "value" : "Creating a new user ,Adding the product the card and completing the payment for product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c56bfc604a363715.json",
+  "parameterValues" : [ "chrome-90.0.4430.93" ]
+}

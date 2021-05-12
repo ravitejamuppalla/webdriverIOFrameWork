@@ -1,0 +1,113 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "Login Again Back to application and click on Home Button ",
+      "uid" : "c56bfc604a363715",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620841765085,
+        "stop" : 1620841781520,
+        "duration" : 16435
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "validate the product deatils in the order history",
+      "uid" : "346f98025043d273",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620841833648,
+        "stop" : 1620841833724,
+        "duration" : 76
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Navigating to My Account Section and logging out of the application ",
+      "uid" : "8ceafa9e5f461bf8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620841758202,
+        "stop" : 1620841765084,
+        "duration" : 6882
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Navigating to first Product in the and click on Add to cart",
+      "uid" : "aae73316de1d9326",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620841781520,
+        "stop" : 1620841790617,
+        "duration" : 9097
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Navigating to SignIn Page and creating a New Account ",
+      "uid" : "a872d5d607a5512c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620841726529,
+        "stop" : 1620841758202,
+        "duration" : 31673
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Navigating to Different tabs to complete the buying the product",
+      "uid" : "4741ebc80868e57b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620841796344,
+        "stop" : 1620841828387,
+        "duration" : 32043
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "validating product has been added successfully message and navigate to order deatils",
+      "uid" : "9f5e1d39798f9223",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620841828387,
+        "stop" : 1620841833647,
+        "duration" : 5260
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Validating the product deatils and adding the product to cart",
+      "uid" : "912b0418cb05859a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620841790617,
+        "stop" : 1620841796344,
+        "duration" : 5727
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ]
+}

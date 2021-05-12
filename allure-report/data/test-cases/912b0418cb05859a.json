@@ -1,0 +1,58 @@
+{
+  "uid" : "912b0418cb05859a",
+  "name" : "Validating the product deatils and adding the product to cart",
+  "fullName" : "Creating a new user ,Adding the product the card and completing the payment for product.Validating the product deatils and adding the product to cart",
+  "historyId" : "7a9f0b812fd79223552fb9deb881c767",
+  "time" : {
+    "start" : 1620841790617,
+    "stop" : 1620841796344,
+    "duration" : 5727
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Creating a new user ,Adding the product the card and completing the payment for product"
+  }, {
+    "name" : "testClass",
+    "value" : "Creating a new user ,Adding the product the card and completing the payment for product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Validating the product deatils and adding the product to cart"
+  }, {
+    "name" : "package",
+    "value" : "Creating a new user ,Adding the product the card and completing the payment for product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "912b0418cb05859a.json",
+  "parameterValues" : [ "chrome-90.0.4430.93" ]
+}

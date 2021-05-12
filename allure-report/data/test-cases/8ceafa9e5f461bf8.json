@@ -1,0 +1,58 @@
+{
+  "uid" : "8ceafa9e5f461bf8",
+  "name" : "Navigating to My Account Section and logging out of the application ",
+  "fullName" : "Creating a new user ,Adding the product the card and completing the payment for product.Navigating to My Account Section and logging out of the application ",
+  "historyId" : "fcbd9b7074db4ec6abc1512855811bab",
+  "time" : {
+    "start" : 1620841758202,
+    "stop" : 1620841765084,
+    "duration" : 6882
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Creating a new user ,Adding the product the card and completing the payment for product"
+  }, {
+    "name" : "testClass",
+    "value" : "Creating a new user ,Adding the product the card and completing the payment for product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Navigating to My Account Section and logging out of the application "
+  }, {
+    "name" : "package",
+    "value" : "Creating a new user ,Adding the product the card and completing the payment for product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ceafa9e5f461bf8.json",
+  "parameterValues" : [ "chrome-90.0.4430.93" ]
+}

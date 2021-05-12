@@ -1,0 +1,81 @@
+[ {
+  "uid" : "4741ebc80868e57b",
+  "name" : "Navigating to Different tabs to complete the buying the product",
+  "time" : {
+    "start" : 1620841796344,
+    "stop" : 1620841828387,
+    "duration" : 32043
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a872d5d607a5512c",
+  "name" : "Navigating to SignIn Page and creating a New Account ",
+  "time" : {
+    "start" : 1620841726529,
+    "stop" : 1620841758202,
+    "duration" : 31673
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c56bfc604a363715",
+  "name" : "Login Again Back to application and click on Home Button ",
+  "time" : {
+    "start" : 1620841765085,
+    "stop" : 1620841781520,
+    "duration" : 16435
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "346f98025043d273",
+  "name" : "validate the product deatils in the order history",
+  "time" : {
+    "start" : 1620841833648,
+    "stop" : 1620841833724,
+    "duration" : 76
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ceafa9e5f461bf8",
+  "name" : "Navigating to My Account Section and logging out of the application ",
+  "time" : {
+    "start" : 1620841758202,
+    "stop" : 1620841765084,
+    "duration" : 6882
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aae73316de1d9326",
+  "name" : "Navigating to first Product in the and click on Add to cart",
+  "time" : {
+    "start" : 1620841781520,
+    "stop" : 1620841790617,
+    "duration" : 9097
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f5e1d39798f9223",
+  "name" : "validating product has been added successfully message and navigate to order deatils",
+  "time" : {
+    "start" : 1620841828387,
+    "stop" : 1620841833647,
+    "duration" : 5260
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "912b0418cb05859a",
+  "name" : "Validating the product deatils and adding the product to cart",
+  "time" : {
+    "start" : 1620841790617,
+    "stop" : 1620841796344,
+    "duration" : 5727
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

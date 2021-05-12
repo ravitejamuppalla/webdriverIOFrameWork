@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1620841726528' stop='1620841833726'>
+    <name>Creating a new user ,Adding the product the card and completing the payment for product</name>
+    <title>Creating a new user ,Adding the product the card and completing the payment for product</title>
+    <test-cases>
+        <test-case start='1620841726529' status='passed' stop='1620841758202'>
+            <name>Navigating to SignIn Page and creating a New Account </name>
+            <title>Navigating to SignIn Page and creating a New Account </title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1620841758202' status='passed' stop='1620841765084'>
+            <name>Navigating to My Account Section and logging out of the application </name>
+            <title>Navigating to My Account Section and logging out of the application </title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1620841765085' status='passed' stop='1620841781520'>
+            <name>Login Again Back to application and click on Home Button </name>
+            <title>Login Again Back to application and click on Home Button </title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1620841781520' status='passed' stop='1620841790617'>
+            <name>Navigating to first Product in the and click on Add to cart</name>
+            <title>Navigating to first Product in the and click on Add to cart</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1620841790617' status='passed' stop='1620841796344'>
+            <name>Validating the product deatils and adding the product to cart</name>
+            <title>Validating the product deatils and adding the product to cart</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1620841796344' status='passed' stop='1620841828387'>
+            <name>Navigating to Different tabs to complete the buying the product</name>
+            <title>Navigating to Different tabs to complete the buying the product</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1620841828387' status='passed' stop='1620841833647'>
+            <name>validating product has been added successfully message and navigate to order deatils</name>
+            <title>validating product has been added successfully message and navigate to order deatils</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1620841833648' status='passed' stop='1620841833724'>
+            <name>validate the product deatils in the order history</name>
+            <title>validate the product deatils in the order history</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

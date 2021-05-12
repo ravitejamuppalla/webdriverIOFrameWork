@@ -1,0 +1,15 @@
+{
+    "websiteURLValidation":"http://automationpractice.com/index.php",
+    "signInName":"Sign in",
+    "createNewAccount":"CREATE AN ACCOUNT",
+    "alreadyRegistered":"ALREADY REGISTERED?",
+    "createAnAccountHeading":"CREATE AN ACCOUNT",
+    "productAddedSuccess":"Product successfully added to your shopping cart",
+    "productCompleted":"Your order on My Store is complete.",
+    "totalPrice":"$19.25",
+    "password" : "Password1",
+    "postalCode" : "00000",
+    "additionalInfo" : "this is for Automation Testing",
+    "phoneNumber":"8773733393",
+    "phoneMobile":"8773733988"
+  }

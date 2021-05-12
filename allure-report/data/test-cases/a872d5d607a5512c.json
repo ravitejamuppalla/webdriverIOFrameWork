@@ -1,0 +1,58 @@
+{
+  "uid" : "a872d5d607a5512c",
+  "name" : "Navigating to SignIn Page and creating a New Account ",
+  "fullName" : "Creating a new user ,Adding the product the card and completing the payment for product.Navigating to SignIn Page and creating a New Account ",
+  "historyId" : "57f42861377616b1a4cd2ab30baa66d1",
+  "time" : {
+    "start" : 1620841726529,
+    "stop" : 1620841758202,
+    "duration" : 31673
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Creating a new user ,Adding the product the card and completing the payment for product"
+  }, {
+    "name" : "testClass",
+    "value" : "Creating a new user ,Adding the product the card and completing the payment for product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Navigating to SignIn Page and creating a New Account "
+  }, {
+    "name" : "package",
+    "value" : "Creating a new user ,Adding the product the card and completing the payment for product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a872d5d607a5512c.json",
+  "parameterValues" : [ "chrome-90.0.4430.93" ]
+}
